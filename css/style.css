@@ -1,0 +1,243 @@
+
+.laro{
+    background-color: rgba(0, 0, 255, 0.781);
+    padding: 5px;
+   
+  
+   
+}
+.log{
+    position: relative;
+   left: 15px;
+   top:8px
+}
+.sus{
+    color: white;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.navbar-header .navbar-toggle{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+   
+}
+.icon-bar{
+    position: relative;
+    top:-17px;
+    font-weight: bold;
+    font-size:17px
+}
+ul{
+   position: relative;
+   left:500px
+}
+.nav-link{
+    color:black;
+    font-weight: bolder;
+    font-size: 18px;
+}
+ .nav-link.active{
+    color: blue;
+
+}
+.pop{
+    background-image:url(../images/banner-bg.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: bottom center;
+}
+.ecom{
+    background-color: white;
+    opacity: 0.9;
+   
+   padding-left: 20px;
+   padding-top: 15px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+     margin-top: 100px;
+   
+}
+.main-button{
+    border: 2px solid rgb(0, 153, 255);
+    background-color:rgb(0, 140, 255);
+   width: 120px;
+   padding: 10px 10px;
+   text-align: center;
+   
+   border-radius: 5px;
+
+}
+.main-button a{
+    color: white;
+}
+.main-button:hover{
+    opacity: 0.6;
+    text-decoration: none;
+    cursor:pointer;
+    transition: 0.8s;
+
+}
+.line-dec{
+    width: 40px;
+    height: 6px;
+    background-color: rgba(0, 0, 255, 0.562)
+}
+.toop:hover{
+text-decoration: none;
+}
+.feat{
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+.dolar{
+    color: rgb(0, 81, 255);
+      font-weight: bolder;
+      font-size: 15px;
+}
+.jens{
+    border: 2px solid #eee;
+   padding: 15px;
+   border-radius: 5px;
+}
+.jens img{
+    margin: auto;
+}
+.sed{
+    color: black;
+   font-weight: bold;
+}
+
+.slide .carousel-indicators li{
+    background-color: gray;
+    border-radius: 0px;
+    position: relative;
+    bottom: -60px;
+}
+.carousel-indicators li.active{
+    background-color: blue;
+}
+.blou{
+    background-color: blue;
+    padding: 80px 0px;
+    
+   
+}
+.line-dec1{
+    background-color:white;
+    width: 40px;
+    height: 6px;
+    margin: auto;
+}
+.sups{
+    color: white;
+    font-size: 20px;
+}
+.sups1{
+    color: white;
+    font-size: 18px;
+}
+.button{
+   padding: 10px 30px;
+   width: 300px;
+   background-color: white;
+   color: #1E5690;
+   outline: none;
+   border-color: white;
+  border-radius: 5px;
+  
+
+}
+.col-md-5 .inp1{
+    background-color: blue;
+    border-radius: 5px;
+    color:white ;
+    border-color: white;
+    height:40px;
+
+}
+.container .col-md-5 ::placeholder{
+    color: white;
+}
+.divspan .col-xs-2 span{
+    border-radius:50%;
+    padding: 15px;
+    background-color: gray;
+    cursor: pointer;
+    color:white
+}
+.divspan .col-xs-2 span:hover{
+    background-color: blue;
+    transition: ease-in-out all .3s;
+}
+.divspan
+{
+    margin-top: 50px;
+}
+.pro{
+   position: relative;
+     right:-120px;
+     top:3px;
+     color: black;
+     font-weight: bold;
+     font-size: 15px;
+     cursor: pointer;
+}
+.down .col-xs-12{
+ margin-bottom: 30px;
+  
+}
+.nambar{
+    margin-left: 10px;
+    border: 2px solid #eee;
+    padding: 10px 15px;
+    border-radius: 7px;
+    color:black;
+    font-weight: bold;
+    font-size: 15px;
+}
+.container .col-xs-12 .active{
+    background-color: blue;
+    color: white;
+}
+.nambar:hover{
+    background-color: blue;
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.pha{
+    color: black;
+    font-weight: bold;
+}
+.cred:hover{
+    text-decoration: none;
+}
+.bbb{
+ border-radius: 50%;
+ background-color: gray;
+ color: white;
+ padding: 7px;
+ opacity: 0.8;
+ cursor: pointer;
+}
+.bbb:hover{
+    background-color: blue;
+}
+.comp{
+    color: gray;
+}
+.rinp input{
+  height:50px
+}
+.text3
+{
+    margin-top:20px
+}
+.text3 .btn-primary
+{
+    padding: 10px 25px;
+}

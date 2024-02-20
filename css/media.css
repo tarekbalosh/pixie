@@ -1,0 +1,64 @@
+@media(max-width:1024px)
+{
+    .pro{
+        position: relative;
+          right:0px;
+          top:0px
+     }
+     .col-md-6 form .rinp .EM
+     {
+     
+       margin-top:20px;
+     }
+}
+
+
+
+
+@media(width:768px)
+{
+    .button{
+        width:200px;
+    }
+    ul{
+        position: relative;
+        left:200px
+     }
+    
+}
+@media(width:280px)
+{
+    .button{
+        width:140px;
+        padding: 4px 40px;
+   
+}
+}
+@media(max-width:765px)
+{
+    .col-md-3 .button{
+       margin-top: 20px;
+    }
+    ul{
+        position: relative;
+        left:0px
+     }
+}
+@media(width:1024px)
+{
+   
+    ul{
+        position: relative;
+        left:300px
+     }
+    
+}
+@media(width:540px)
+{
+   
+   .jens img
+   {
+       width: 100%;
+       height: 400px;
+   }
+}
